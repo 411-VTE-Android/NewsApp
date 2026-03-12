@@ -24,10 +24,10 @@ val worlwideNewsList = listOf(
     News(2, "Bañarse en la piscina del desierto de cleopatra", "", "https://cdn.pixabay.com/photo/2024/03/21/23/15/ai-generated-8648646_1280.jpg"),
     News(3, "Gigantes tecnológicos y el uso de la IA", "", "https://cdn.pixabay.com/photo/2023/10/30/05/02/ai-generated-8351759_1280.png"),
     News(4, "El rover de marte envía fotos impactantes", "", "https://cdn.pixabay.com/photo/2026/02/26/18/56/mv-fotos-spacecraft-10145647_1280.png"),
-    News(5, "Trenes de levitación magnética de nueva generación llegan a Europa", "", ""),
-    News(6, "El renacimiento de la arquitectura sostenible en las grandes metrópolis", "", ""),
-    News(7, "Misión al fondo del océano revela especies marinas nunca antes vistas", "", ""),
-    News(8, "Histórico festival cultural en Japón rompe récord de asistencia", "", ""),
-    News(9, "Cumbre global del clima establece nuevas metas de energía limpia para 2030", "", "")
+    News(5, "Trenes de levitación magnética de nueva generación llegan a Europa", "", "https://cdn.pixabay.com/photo/2023/09/07/13/15/train-8239077_1280.jpg"),
+    News(6, "El renacimiento de la arquitectura sostenible en las grandes metrópolis", "", "https://cdn.pixabay.com/photo/2024/02/21/08/10/metropolis-8587010_1280.png"),
+    News(7, "Misión al fondo del océano revela especies marinas nunca antes vistas", "", "https://cdn.pixabay.com/photo/2023/03/16/10/34/jellyfish-7856407_1280.jpg"),
+    News(8, "Histórico festival cultural en Japón rompe récord de asistencia", "", "https://cdn.pixabay.com/photo/2016/06/16/01/27/japan-1460334_1280.jpg"),
+    News(9, "Cumbre global del clima establece nuevas metas de energía limpia para 2030", "", "https://cdn.pixabay.com/photo/2024/12/15/04/20/ai-generated-9268108_1280.jpg")
 
 )
